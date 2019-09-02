@@ -1,4 +1,4 @@
-# Passos para instalar e utilizar Git, Github, Atom e GitKraken
+# Passos para instalar e utilizar Git, Github, Atom e GitKraken :+1:
 
 ## Nesta demonstração você verá:
 
@@ -12,7 +12,7 @@
 
 - [GitHub](https://github.com "Faça sua conta")
 
-Se ainda não possui uma conta no Github, clique no link e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao Student Pack (serviços PRO gratuitos).
+Se ainda não possui uma conta no Github, clique no link e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao Student Pack (serviços **PRO** gratuitos).
 
 - [Student pack](https://education.github.com/pack "Student Pack")
 
@@ -51,7 +51,7 @@ Se pretende trabalhar com Python, instale a versão do Python de sua preferênci
   - Tensor Flow - ampla biblioteca para trabalhar com inteligência artificial (https://www.tensorflow.org/?hl=pt-br)
 - ~~(tem várias outras)~~
 
-**Recomento instalar todas estas para bom funcionamento do Atom depois.**
+**Recomento instalar todas estas para bom funcionamento do Atom na maioria das aplicações pretendidas.**
 
 ### [Git](https://git-scm.com/ "Git")
 
