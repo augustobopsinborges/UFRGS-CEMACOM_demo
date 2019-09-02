@@ -21,8 +21,14 @@ Utilizando seu login do Github, no site acima, clique em *Get the Pack*. Faça o
 ## Programas a serem instalados (nesta ordem, preferencialmente):
 
 - [Git](https://git-scm.com/ "Git")
-- [Atom IDE](https://atom.io/ "Atom") (editor de texto avançado)
+
+Instale o Git, disponível no link acima. Siga as instruções [desta página](http://robertovormittag.net/ebooks/git-and-github/git-for-windows-installation-screenshots/ "Instalando Git").
+- [Atom IDE](https://atom.io/ "Atom")
+
+Este é um editor de texto avançado que serve para praticamente tudo, desde escrita do código até compilação.
 - [GitKraken](https://www.gitkraken.com/)
+
+GitKraken é basicamente um *manager* das tuas versões, linkado aos teus repositórios no GitHub ou outro.
 
 ## *Para quem pensa em usar o* LaTeX *na escrita da dissertação/tese, instale também*:
 
