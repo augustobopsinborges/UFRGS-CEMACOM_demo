@@ -97,7 +97,7 @@ Para associar o GitKraken à sua conta do GitHub, acessar seus repositórios rem
   - Após instalar o MiKTeX, execute o console e instale o package _latexmk_.
 - [Strawberry Perl](http://strawberryperl.com/ "Strawberry Perl")
 
-***  \*estou preparando um template em LaTeX do modelo de tese/dissertação do PPGEC-UFRGS e em breve vou disponibilizar.***
+***\*estou preparando um template em LaTeX do modelo de tese/dissertação do PPGEC-UFRGS e em breve vou disponibilizar.***
 
 ## Outros links úteis:
 
