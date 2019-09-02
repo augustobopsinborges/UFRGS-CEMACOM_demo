@@ -25,7 +25,7 @@ Utilizando seu login do GitHub, no site do link acima, clique em *Get the Pack*.
 
 ## Programas a serem instalados (nesta ordem, preferencialmente):
 
-### [Python](https://www.python.org/ "Python")
+### [Python](https://www.python.org/ "Python") :computer:
 
 Se pretende trabalhar com Python, instale a versão do Python de sua preferência a partir do link acima mas, mesmo se não for trabalhar com Python, recomendo que faça este procedimento.
 
@@ -58,11 +58,11 @@ Se pretende trabalhar com Python, instale a versão do Python de sua preferênci
 
 **Recomento instalar todas estas para bom funcionamento do Atom na maioria das aplicações pretendidas.**
 
-### [Git](https://git-scm.com/ "Git")
+### [Git](https://git-scm.com/ "Git") :computer:
 
 Instale o Git, disponível no link acima. Siga as instruções [desta página](http://robertovormittag.net/ebooks/git-and-github/git-for-windows-installation-screenshots/ "Instalando Git").
 
-### [Atom IDE](https://atom.io/ "Atom")
+### [Atom IDE](https://atom.io/ "Atom") :computer:
 
 Este é um editor de texto avançado que serve para praticamente tudo, desde escrita do código (em praticamente qualquer linguagem) até compilação.
 
@@ -83,7 +83,7 @@ Se for trabalhar com LaTeX no Atom:
 - latex
 - language-latex
 
-### [GitKraken](https://www.gitkraken.com/)
+### [GitKraken](https://www.gitkraken.com/) :computer:
 
 GitKraken é basicamente um *manager* das tuas versões de código, linkado aos teus repositórios no GitHub ou outro, para controle de versões.
 
