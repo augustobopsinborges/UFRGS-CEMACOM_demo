@@ -17,7 +17,7 @@
 
 - [GitHub](https://github.com "Faça sua conta")
 
-Se ainda não possui uma conta no GitHub, clique no link acima e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao *Student Pack* (serviços **PRO** gratuitos).
+Se ainda não possui uma conta no GitHub, clique no link acima e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao *Student Pack* (serviços **PRO** gratuitos :raised_hands:).
 
 - [Student pack](https://education.github.com/pack "Student Pack")
 
