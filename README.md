@@ -8,7 +8,7 @@
 - Otras cositas más, que ainda vou ver.
 
 Depois vou ver como ir complementando o material disponível.
-## Links úteis
+## Links úteis:
 
 - [Github](https://github.com "Faça sua conta")
 
