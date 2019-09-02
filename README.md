@@ -84,7 +84,7 @@ GitKraken é basicamente um *manager* das tuas versões de código, linkado aos 
 
 Faça login no GitKraken com sua conta do GitHub. Assim você terá também a versão **PRO** do GitKraken, concedida por anteriormente ter feito a autenticação da sua conta no Student Pack com o e-mail institucional.
 
-Para associar o GitKraken à sua conta do GitHub e acessar seus repositórios remotamente não basta ter feito o login com sua conta do GitHub. Você deve dizer ao GitHub que você é efetivamente _você_ autenticando sua conta. Para tanto, vá em *Preferences*, *Authentication*, *GitHub.com* e gere uma *SSH Key*. Sua conta estará automaticamente associada ao seu GitHub.
+Para associar o GitKraken à sua conta do GitHub e acessar seus repositórios remotamente não basta ter feito o login com sua conta do GitHub. Você deve dizer ao GitHub que você é efetivamente _você_ autenticando sua conta. Para tanto, vá em *Preferences*, *Authentication*, *GitHub.com* e gere uma *SSH Key*. Sua conta estará automaticamente associada ao seu GitHub. Se não estiver entendendo como fazer isso, veja [este vídeo](https://www.youtube.com/watch?v=f0y_xCeM1Rk&t).
 
 ## *Para quem pensa em usar o* LaTeX *na escrita da dissertação/tese, instale também*:
 
