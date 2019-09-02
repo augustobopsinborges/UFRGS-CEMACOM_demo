@@ -7,10 +7,10 @@
 - Trabalhar com Git e Github através do GitKraken;
 - ~~Otras cositas más, que ainda vou ver.~~
 
-~~Depois vou ver como ir complementando o material disponível.~~
+~~Depois vou complementando o material disponível.~~
 ## Em primeiro lugar:
 
-- [Github](https://github.com "Faça sua conta")
+- [GitHub](https://github.com "Faça sua conta")
 
 Se ainda não possui uma conta no Github, clique no link e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao Student Pack (serviços PRO gratuitos).
 
@@ -89,7 +89,7 @@ Para associar o GitKraken à sua conta do GitHub e acessar seus repositórios re
 ## *Para quem pensa em usar o* LaTeX *na escrita da dissertação/tese, instale também*:
 
 - [MiKTeX](https://miktex.org/ "MiKTeX")
-  - Após instalar o MiKTeX, execute o console e instale o package _latexmk_. 
+  - Após instalar o MiKTeX, execute o console e instale o package _latexmk_.
 - [Strawberry Perl](http://strawberryperl.com/ "Strawberry Perl")
 
 ## Outros links úteis:
