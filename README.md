@@ -25,7 +25,7 @@ Utilizando seu login do GitHub, no site do link acima, clique em *Get the Pack*.
 
 ## Programas a serem instalados (nesta ordem, preferencialmente):
 
-### [Python](https://www.python.org/ "Python")
+### [Python](https://www.python.org/ "Python") :computer:
 
 Se pretende trabalhar com Python, instale a versão do Python de sua preferência a partir do link acima mas, mesmo se não for trabalhar com Python, recomendo que faça este procedimento.
 
