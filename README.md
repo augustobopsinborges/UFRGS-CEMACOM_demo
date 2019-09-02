@@ -1,4 +1,4 @@
-# Passos para instalar e utilizar Git, Github, Atom e GitKraken :+1:
+# Passos para instalar e utilizar Git, GitHub, Atom e GitKraken :+1:
 
 *O jeito de fazer as coisas e trabalhar que coloquei aqui são conforme eu me senti mais confortável e achei melhor. Há muitas outras maneiras.*
 
@@ -6,36 +6,37 @@
 
 ## Nesta demonstração você verá:
 
-- Utilizar Atom para uma ampla gama de aplicações;
+- Utilizar Atom (editor de texto muito robusto) para uma ampla gama de aplicações;
 - Entender ideia de controle de versões;
-- Trabalhar com Git e Github através do GitKraken;
+- Trabalhar com Git e GitHub através do GitKraken;
 - ~~Otras cositas más, que ainda vou ver.~~
 
 ~~Depois vou complementando o material disponível.~~
+
 ## Em primeiro lugar:
 
 - [GitHub](https://github.com "Faça sua conta")
 
-Se ainda não possui uma conta no Github, clique no link e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao Student Pack (serviços **PRO** gratuitos).
+Se ainda não possui uma conta no GitHub, clique no link acima e crie a sua, lembrando de registrar também seu e-mail da UFRGS para ter direito ao *Student Pack* (serviços **PRO** gratuitos).
 
 - [Student pack](https://education.github.com/pack "Student Pack")
 
-Utilizando seu login do Github, no site acima, clique em *Get the Pack*. Faça o *login* com sua conta do Github para obter serviços **PRO** gratuitamente.
+Utilizando seu login do GitHub, no site do link acima, clique em *Get the Pack*. Faça o *login* com sua conta do GitHub para obter serviços **PRO** gratuitamente.
 
 ## Programas a serem instalados (nesta ordem, preferencialmente):
 
 ### [Python](https://www.python.org/ "Python")
 
-Se pretende trabalhar com Python, instale a versão do Python de sua preferência. Mesmo se não for trabalhar com Python, faça este procedimento.
+Se pretende trabalhar com Python, instale a versão do Python de sua preferência mas, mesmo se não for trabalhar com Python, recomendo que faça este procedimento.
 
-#### Instalando bibliotecas do python
+#### Instalando bibliotecas do Python
 
 - procurar *python3.dll* na busca do windows. (~~foi o jeito mais fácil para encontrar o lugar correto que eu achei~~)
 - abrir pasta local do arquivo anterior;
 - clicar com o botão direito do mouse segurando o Shift e clicar em "Abrir janela de comando aqui" ou algo similar;
-- no terminal que abrir, escrever "pip install *nomedabiblioteca*"
+- no terminal que abrirá, escreva "pip install *nomedabiblioteca*"
 
-#### Principais Bibliotecas Python:
+#### Principais bibliotecas Python:
 
 - _Básicas_:
   - NumPy (https://numpy.org/)
@@ -63,7 +64,7 @@ Instale o Git, disponível no link acima. Siga as instruções [desta página](h
 
 ### [Atom IDE](https://atom.io/ "Atom")
 
-Este é um editor de texto avançado que serve para praticamente tudo, desde escrita do código até compilação.
+Este é um editor de texto avançado que serve para praticamente tudo, desde escrita do código (em praticamente qualquer linguagem) até compilação.
 
 Uma vez instalado o Atom, instale também os _packages_ básicos para ter uma boa experiência de uso (instalação dos _packages_ é realizada nas configurações do Atom).
 
@@ -84,11 +85,11 @@ Se for trabalhar com LaTeX no Atom:
 
 ### [GitKraken](https://www.gitkraken.com/)
 
-GitKraken é basicamente um *manager* das tuas versões de código, linkado aos teus repositórios no GitHub ou outro.
+GitKraken é basicamente um *manager* das tuas versões de código, linkado aos teus repositórios no GitHub ou outro, para controle de versões.
 
-Faça login no GitKraken com sua conta do GitHub. Assim você terá também a versão **PRO** do GitKraken, concedida por anteriormente ter feito a autenticação da sua conta no Student Pack com o e-mail institucional.
+Faça login no GitKraken com sua conta do GitHub. Assim você terá também a versão **PRO** do GitKraken, concedida por anteriormente ter sido realizada a autenticação da sua conta no *Student Pack* com o e-mail institucional.
 
-Para associar o GitKraken à sua conta do GitHub e acessar seus repositórios remotamente não basta ter feito o login com sua conta do GitHub. Você deve dizer ao GitHub que você é efetivamente _você_ autenticando sua conta. Para tanto, vá em *Preferences*, *Authentication*, *GitHub.com* e gere uma *SSH Key*. Sua conta estará automaticamente associada ao seu GitHub. Se não estiver entendendo como fazer isso, veja [este vídeo](https://www.youtube.com/watch?v=f0y_xCeM1Rk&t).
+Para associar o GitKraken à sua conta do GitHub, acessar seus repositórios remotamente e trabalhar com os mesmos em seu computador, não basta ter feito o *login* com sua conta do GitHub no GitKraken. Você deve dizer ao GitHub que você é efetivamente _você_ que está usando o GitKraken autenticando sua conta. Para tanto, vá em *Preferences*, *Authentication*, *GitHub.com* e gere uma *SSH Key*. Sua conta estará automaticamente associada ao seu GitHub. Se não estiver entendendo como fazer isso, veja [este vídeo](https://www.youtube.com/watch?v=f0y_xCeM1Rk&t).
 
 ## *Para quem pensa em usar o* LaTeX *na escrita da dissertação/tese, instale também*:
 
