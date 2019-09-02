@@ -27,7 +27,7 @@ Utilizando seu login do GitHub, no site do link acima, clique em *Get the Pack*.
 
 ### [Python](https://www.python.org/ "Python")
 
-Se pretende trabalhar com Python, instale a versão do Python de sua preferência mas, mesmo se não for trabalhar com Python, recomendo que faça este procedimento.
+Se pretende trabalhar com Python, instale a versão do Python de sua preferência a partir do link acima mas, mesmo se não for trabalhar com Python, recomendo que faça este procedimento.
 
 #### Instalando bibliotecas do Python
 
