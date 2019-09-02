@@ -42,3 +42,14 @@ GitKraken é basicamente um *manager* das tuas versões, linkado aos teus reposi
 - [Gitkraken introduction](https://www.youtube.com/watch?v=ZKkMwTeAij4 "intro")
 - [Gitflow](https://www.youtube.com/watch?v=eTOgjQ9o4vQ "Gitkraken Gitflow") (avançado)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/ "Commit naming") (importante)
+
+## Instalando bibliotecas do python
+
+- procurar *python3.dll* na busca do windows.
+- abrir local do arquivo anterior;
+- clicar com o botão direito do mouse segurando o Shift e clicar em "Abrir janela de comando aqui" ou algo similar;
+- no terminal que abrir, escrever "pip install *nomedabiblioteca*"
+### Principais Bibliotecas Python:
+- _Básicas_: numpy, scipy, pandas
+- _Gráficas_: matplotlib, plotly, bokeh, vpython
+- (olhar outras no livro depois)
