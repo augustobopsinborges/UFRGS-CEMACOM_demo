@@ -99,6 +99,7 @@ Para associar o GitKraken à sua conta do GitHub, acessar seus repositórios rem
 
 ## Outros links úteis:
 
+- [GitKraken Tutorials and Tips](https://www.youtube.com/watch?v=ub9GfRziCtU&list=PLe6EXFvnTV78WqGmGSq8JPnafR3lAa55n)
 - [Git workflow](https://www.youtube.com/watch?time_continue=5&v=3a2x1iJFJWc "GitKraken workflow")
 - [Git for noobs](https://www.youtube.com/watch?v=_ALeswWzpBo "Git explained")
 - [Gitkraken introduction](https://www.youtube.com/watch?v=ZKkMwTeAij4 "intro")
