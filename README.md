@@ -33,7 +33,7 @@ Se pretende trabalhar com Python, instale a versão do Python de sua preferênci
 
 - procurar *python3.dll* na busca do windows. (~~foi o jeito mais fácil para encontrar o lugar correto que eu achei~~)
 - abrir pasta local do arquivo anterior;
-- clicar com o botão direito do mouse segurando o Shift e clicar em "Abrir janela de comando aqui" ou algo similar;
+- no ambiente da pasta, fora de qualquer arquivo, clicar com o botão direito do mouse segurando o Shift e clicar em "Abrir janela de comando aqui" ou algo similar;
 - no terminal que abrirá, escreva "pip install *nomedabiblioteca*"
 
 #### Principais bibliotecas Python:
@@ -52,7 +52,7 @@ Se pretende trabalhar com Python, instale a versão do Python de sua preferênci
   - Theano - processamento paralelo e otimização (http://deeplearning.net/software/theano/)
   - PyTables - manipulação de dados em tabelas (https://www.pytables.org/)
   - Numba - permite que o Python execute processos em velocidade de código em linguagem de máquina nativa (baixo nível) (https://numba.pydata.org/)
-  - Jypiter - permite utilizar Python diretamente de seu browser (https://jupyter.org/)
+  - Jupyter - permite utilizar Python diretamente de seu browser (https://jupyter.org/)
   - Tensor Flow - ampla biblioteca para trabalhar com inteligência artificial (https://www.tensorflow.org/?hl=pt-br)
 - ~~(tem várias outras)~~
 
