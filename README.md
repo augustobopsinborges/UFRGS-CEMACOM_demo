@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/205739592.svg)](https://zenodo.org/badge/latestdoi/205739592)
 # Passos para instalar e utilizar Git, GitHub, Atom e GitKraken :+1:
 
 *O jeito de fazer as coisas e trabalhar que coloquei aqui são conforme eu me senti mais confortável e achei melhor. Há muitas outras maneiras.*
